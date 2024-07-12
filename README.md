@@ -11,5 +11,5 @@
 
 https://github.com/researchcode001/Divide-and-Conquer-Attack
 
-https://github.com/llm-jailbreaker/groot-prompt/tree/master
+https://github.com/llm-jailbreaker/groot-prompt
 
